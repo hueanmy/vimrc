@@ -87,5 +87,3 @@ endif
 set updatetime=1
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
-":imap <C-J> <Plug>snipMateNextOrTrigger 
-":smap <C-J> <Plug>snipMateNextOrTrigger"
